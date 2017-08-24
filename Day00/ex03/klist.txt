@@ -1,0 +1,7 @@
+Credentials cache: API:C81CF42F-361D-4AA7-832F-92401CF29277
+        Principal: julin@42.FR
+
+		  Issued                Expires               Principal
+		  Jul 31 14:14:45 2017  Aug  7 14:14:45 2017  krbtgt/42.FR@42.FR
+		  Jul 31 14:14:47 2017  Aug  7 14:14:45 2017  ldap/ldap-proxy.42.fr@42.FR
+		  Jul 31 14:14:47 2017  Aug  7 14:14:45 2017  HTTP/student-storage-1.42.fr@42.FR
